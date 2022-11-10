@@ -1,7 +1,7 @@
 **Hi** 👋
 - 👀 I’m interested in: Computer vision and entrepreneurship 
 - 🌱 I’m currently learning: Cloud based ML, Diffusion models, NERF
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdullahalhayali/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdullahalhayali/), [Email](abdullah.w.alhayali@gmail.com)
 - 💬 I love to chat about: machine learning, medical imaging, startups, and product marketing 
 
 <!---
